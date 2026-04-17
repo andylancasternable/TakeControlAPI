@@ -1,0 +1,7 @@
+email,name,profile,language,timezone
+jane.doe@example.com,Jane Doe,admin,en,America/New_York
+john.smith@example.com,John Smith,technician,en,America/Chicago
+bob.jones@example.com,Bob Jones,technician,en,America/Los_Angeles
+invalid-email,Alice Brown,technician,en,America/Denver
+,Missing Name,,en,America/New_York
+carol.white@example.com,Carol White,admin,en,Europe/London

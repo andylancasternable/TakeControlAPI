@@ -1,0 +1,6 @@
+device_name,device_type,group_id,customer_name,customer_email,max_installs,link_expiration_date
+Marketing Laptop,2,12619,Jane Smith,jane.smith@example.com,1,2024-12-31 23:59:59
+Reception Desktop,1,12620,Acme Corp,support@acme.com,3,2024-12-31 23:59:59
+Dev Workstation,2,12619,Dev Team,devteam@example.com,1,2024-06-30 23:59:59
+Bad Device,notanint,12619,Test User,test@example.com,1,2024-12-31 23:59:59
+Sales Laptop,2,12621,Sales Team,sales@example.com,2,2025-03-31 23:59:59
