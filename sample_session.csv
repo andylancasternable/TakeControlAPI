@@ -1,0 +1,6 @@
+department_id,technician_username,language,customer_name,customer_email,customer_number
+id_1234,user123,en,Sandy Smith,sandy@company.com,d4f%d$3
+id_1235,user456,en,John Doe,john.doe@example.com,
+id_1234,user123,fr,Marie Dupont,marie.dupont@example.fr,REF-001
+,user789,en,Missing Dept,,
+id_1236,user321,es,Carlos Ruiz,carlos.ruiz@example.com,CUS-042

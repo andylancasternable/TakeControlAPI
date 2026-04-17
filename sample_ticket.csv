@@ -1,0 +1,6 @@
+customer_name,customer_email,problem_description
+John Doe,john.doe@example.com,Unable to access network drives
+Sandy Smith,sandy@company.com,Printer not responding after Windows update
+Alice Johnson,alice.j@example.com,VPN connection drops every 10 minutes
+,bad-email@,Missing customer name and invalid email
+Bob Williams,bob.williams@example.com,Software installation fails with error code 1603
